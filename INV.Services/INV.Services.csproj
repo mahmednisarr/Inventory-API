@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\INV.Core\INV.Core.csproj" />
+    <ProjectReference Include="..\INV.Dto\INV.Dto.csproj" />
+    <ProjectReference Include="..\INV.Helper\INV.Helper.csproj" />
+    <ProjectReference Include="..\INV.Services.Infrastructure\INV.Services.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,60 @@
+D:\Projects\CONF\INV-API\INV.Dto\bin\Debug\net5.0\INV.Dto.deps.json
+D:\Projects\CONF\INV-API\INV.Dto\bin\Debug\net5.0\INV.Dto.dll
+D:\Projects\CONF\INV-API\INV.Dto\bin\Debug\net5.0\ref\INV.Dto.dll
+D:\Projects\CONF\INV-API\INV.Dto\bin\Debug\net5.0\INV.Dto.pdb
+D:\Projects\CONF\INV-API\INV.Dto\obj\Debug\net5.0\INV.Dto.csproj.AssemblyReference.cache
+D:\Projects\CONF\INV-API\INV.Dto\obj\Debug\net5.0\INV.Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CONF\INV-API\INV.Dto\obj\Debug\net5.0\INV.Dto.AssemblyInfoInputs.cache
+D:\Projects\CONF\INV-API\INV.Dto\obj\Debug\net5.0\INV.Dto.AssemblyInfo.cs
+D:\Projects\CONF\INV-API\INV.Dto\obj\Debug\net5.0\INV.Dto.csproj.CoreCompileInputs.cache
+D:\Projects\CONF\INV-API\INV.Dto\obj\Debug\net5.0\INV.Dto.dll
+D:\Projects\CONF\INV-API\INV.Dto\obj\Debug\net5.0\ref\INV.Dto.dll
+D:\Projects\CONF\INV-API\INV.Dto\obj\Debug\net5.0\INV.Dto.pdb
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Dto\bin\Debug\net5.0\INV.Dto.deps.json
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Dto\bin\Debug\net5.0\INV.Dto.dll
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Dto\bin\Debug\net5.0\ref\INV.Dto.dll
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Dto\bin\Debug\net5.0\INV.Dto.pdb
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.csproj.AssemblyReference.cache
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.AssemblyInfoInputs.cache
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.AssemblyInfo.cs
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.csproj.CoreCompileInputs.cache
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.dll
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\ref\INV.Dto.dll
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.pdb
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Dto\bin\Debug\net5.0\INV.Dto.deps.json
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Dto\bin\Debug\net5.0\INV.Dto.dll
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Dto\bin\Debug\net5.0\ref\INV.Dto.dll
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Dto\bin\Debug\net5.0\INV.Dto.pdb
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.csproj.AssemblyReference.cache
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.AssemblyInfoInputs.cache
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.AssemblyInfo.cs
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.csproj.CoreCompileInputs.cache
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.dll
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Dto\obj\Debug\net5.0\ref\INV.Dto.dll
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.pdb
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Dto\bin\Debug\net5.0\INV.Dto.deps.json
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Dto\bin\Debug\net5.0\INV.Dto.dll
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Dto\bin\Debug\net5.0\ref\INV.Dto.dll
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Dto\bin\Debug\net5.0\INV.Dto.pdb
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.csproj.AssemblyReference.cache
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.AssemblyInfoInputs.cache
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.AssemblyInfo.cs
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.csproj.CoreCompileInputs.cache
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.dll
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\ref\INV.Dto.dll
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.pdb
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Dto\bin\Debug\net5.0\INV.Dto.deps.json
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Dto\bin\Debug\net5.0\INV.Dto.dll
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Dto\bin\Debug\net5.0\ref\INV.Dto.dll
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Dto\bin\Debug\net5.0\INV.Dto.pdb
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.csproj.AssemblyReference.cache
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.AssemblyInfoInputs.cache
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.AssemblyInfo.cs
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.csproj.CoreCompileInputs.cache
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.dll
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\ref\INV.Dto.dll
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.pdb

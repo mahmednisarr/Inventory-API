@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "INV.Services.Infrastructure/1.0.0": {
+        "dependencies": {
+          "INV.Dto": "1.0.0"
+        },
+        "runtime": {
+          "INV.Services.Infrastructure.dll": {}
+        }
+      },
+      "INV.Dto/1.0.0": {
+        "runtime": {
+          "INV.Dto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "INV.Services.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "INV.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

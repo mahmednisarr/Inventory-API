@@ -1,0 +1,36 @@
+﻿
+.swagger-ui .topbar {
+    background: #c80680;
+    /* Old browsers */
+    background: #c80680;
+    /* Old browsers  */
+    background: -moz-linear-gradient(left, #2840758a 0%, #1d4e83 41%);
+    /* FF3.6+ */
+    background: -webkit-linear-gradient(left, #2840758a 0%, #1d4e83 41%);
+    /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(left, #2840758a 0%, #1d4e83 41%);
+    /* Opera 11.10+ */
+    background: -ms-linear-gradient(left, #2840758a 0%, #1d4e83 41%);
+    /* IE10+ */
+    background: background: linear-gradient(to right, #2840758a 0%, #1d4e83 41%);
+    /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$left', endColorstr='$right',GradientType=0 );
+    /* IE6-9 */
+}
+
+.download-url-wrapper{
+    display:none !important;
+}
+
+.info .main .title span {
+    display: none !important;
+}
+.info .main .link {
+    display: none !important;
+}
+
+.swagger-ui .info .title {
+    
+    font-family: cursive !important;
+    color: #426b8f !important;
+}

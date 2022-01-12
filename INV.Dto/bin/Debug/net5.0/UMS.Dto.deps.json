@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "INV.Dto/1.0.0": {
+        "runtime": {
+          "INV.Dto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "INV.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,105 @@
+D:\Projects\CONF\INV-API\INV.Services\bin\Debug\net5.0\INV.Services.deps.json
+D:\Projects\CONF\INV-API\INV.Services\bin\Debug\net5.0\INV.Services.dll
+D:\Projects\CONF\INV-API\INV.Services\bin\Debug\net5.0\ref\INV.Services.dll
+D:\Projects\CONF\INV-API\INV.Services\bin\Debug\net5.0\INV.Services.pdb
+D:\Projects\CONF\INV-API\INV.Services\bin\Debug\net5.0\INV.Core.dll
+D:\Projects\CONF\INV-API\INV.Services\bin\Debug\net5.0\INV.Dto.dll
+D:\Projects\CONF\INV-API\INV.Services\bin\Debug\net5.0\INV.Helper.dll
+D:\Projects\CONF\INV-API\INV.Services\bin\Debug\net5.0\INV.Services.Infrastructure.dll
+D:\Projects\CONF\INV-API\INV.Services\bin\Debug\net5.0\INV.Core.pdb
+D:\Projects\CONF\INV-API\INV.Services\bin\Debug\net5.0\INV.Dto.pdb
+D:\Projects\CONF\INV-API\INV.Services\bin\Debug\net5.0\INV.Helper.pdb
+D:\Projects\CONF\INV-API\INV.Services\bin\Debug\net5.0\INV.Services.Infrastructure.pdb
+D:\Projects\CONF\INV-API\INV.Services\obj\Debug\net5.0\INV.Services.csproj.AssemblyReference.cache
+D:\Projects\CONF\INV-API\INV.Services\obj\Debug\net5.0\INV.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CONF\INV-API\INV.Services\obj\Debug\net5.0\INV.Services.AssemblyInfoInputs.cache
+D:\Projects\CONF\INV-API\INV.Services\obj\Debug\net5.0\INV.Services.AssemblyInfo.cs
+D:\Projects\CONF\INV-API\INV.Services\obj\Debug\net5.0\INV.Services.csproj.CoreCompileInputs.cache
+D:\Projects\CONF\INV-API\INV.Services\obj\Debug\net5.0\INV.Services.csproj.CopyComplete
+D:\Projects\CONF\INV-API\INV.Services\obj\Debug\net5.0\INV.Services.dll
+D:\Projects\CONF\INV-API\INV.Services\obj\Debug\net5.0\ref\INV.Services.dll
+D:\Projects\CONF\INV-API\INV.Services\obj\Debug\net5.0\INV.Services.pdb
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Services.deps.json
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Services.dll
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\ref\INV.Services.dll
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Services.pdb
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Core.dll
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Dto.dll
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Helper.dll
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Services.Infrastructure.dll
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Core.pdb
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Dto.pdb
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Helper.pdb
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Services.Infrastructure.pdb
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.csproj.AssemblyReference.cache
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.AssemblyInfoInputs.cache
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.AssemblyInfo.cs
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.csproj.CoreCompileInputs.cache
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.csproj.CopyComplete
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.dll
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Services\obj\Debug\net5.0\ref\INV.Services.dll
+D:\Ahmed\Ahmed\Duo Infotech\Inventory\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.pdb
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Services.deps.json
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Services.dll
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Services\bin\Debug\net5.0\ref\INV.Services.dll
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Services.pdb
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Core.dll
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Dto.dll
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Helper.dll
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Services.Infrastructure.dll
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Core.pdb
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Dto.pdb
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Helper.pdb
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Services.Infrastructure.pdb
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.csproj.AssemblyReference.cache
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.AssemblyInfoInputs.cache
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.AssemblyInfo.cs
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.csproj.CoreCompileInputs.cache
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.csproj.CopyComplete
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.dll
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Services\obj\Debug\net5.0\ref\INV.Services.dll
+D:\Ahmed\Ahmed\Comp\Inv\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.pdb
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Services.deps.json
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Services.dll
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\ref\INV.Services.dll
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Services.pdb
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Core.dll
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Dto.dll
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Helper.dll
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Services.Infrastructure.dll
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Core.pdb
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Dto.pdb
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Helper.pdb
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Services.Infrastructure.pdb
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.csproj.AssemblyReference.cache
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.AssemblyInfoInputs.cache
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.AssemblyInfo.cs
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.csproj.CoreCompileInputs.cache
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.csproj.CopyComplete
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.dll
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Services\obj\Debug\net5.0\ref\INV.Services.dll
+D:\Ahmed\Ahmed\Comp\Projects\Inventory\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.pdb
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Services.deps.json
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Services.dll
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\ref\INV.Services.dll
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Services.pdb
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Core.dll
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Dto.dll
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Helper.dll
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Services.Infrastructure.dll
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Core.pdb
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Dto.pdb
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Helper.pdb
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Services\bin\Debug\net5.0\INV.Services.Infrastructure.pdb
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.csproj.AssemblyReference.cache
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.AssemblyInfoInputs.cache
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.AssemblyInfo.cs
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.csproj.CoreCompileInputs.cache
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.csproj.CopyComplete
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.dll
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Services\obj\Debug\net5.0\ref\INV.Services.dll
+D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Services\obj\Debug\net5.0\INV.Services.pdb
