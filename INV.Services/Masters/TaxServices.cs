@@ -83,18 +83,18 @@ namespace INV.Services.Masters
         }
 
 
-        public async Task<TResponse> GetAllTax(int LocID)
+        public async Task<TResponse> GetAllTax()
         {
             try
             {
-                DataSet _dataSet = await _dataWare.GetDataSet("I_Department_get", _list);
+                DataSet _dataSet = await _dataWare.GetDataSet("i_tax_get", _list);
                 
                 if (_dataSet != null && _dataSet.Tables.Count > 0)
                 {
                     _response.ResponseCode = StatusCodes.Status200OK;
                     _response.ResponseStatus = true;
                     _response.ResponseMessage = ResponseMessage.Success;
-                    _response.ResponsePacket = _dataSet.Tables[0].DataTableToList<DepartmentDto>();
+                    _response.ResponsePacket = Common.DatatableToObject(_dataSet.Tables[0]);
                 }
                 else
                 {
@@ -115,18 +115,17 @@ namespace INV.Services.Masters
         }
 
 
-        public async Task<TResponse> SaveOrUpdateItem(ItemDto reqResponseDto, int usrID, int LocID)
+        public async Task<TResponse> SaveOrUpdateItem(Item reqDto, int usrID)
         {
             try
             {
-                _list.Add(new ViewParam() { Name = "id", Value = reqResponseDto.ID });
-                _list.Add(new ViewParam() { Name = "name", Value = reqResponseDto.Name });
-                _list.Add(new ViewParam() { Name = "status", Value = reqResponseDto.Status });
-                if (reqResponseDto.Code != null && reqResponseDto.Code != "")
-                    _list.Add(new ViewParam() { Name = "code", Value = reqResponseDto.Code });
-                _list.Add(new ViewParam() { Name = "LocId", Value = LocID });
+                _list.Add(new ViewParam() { Name = "id", Value = reqDto.ID });
+                _list.Add(new ViewParam() { Name = "name", Value = reqDto.Name });
+                _list.Add(new ViewParam() { Name = "value", Value = reqDto.value });
+                _list.Add(new ViewParam() { Name = "status", Value = reqDto.status });
+                _list.Add(new ViewParam() { Name = "type", Value = reqDto.type });
                 _list.Add(new ViewParam() { Name = "usrId", Value = usrID });
-                DataSet _dataSet = await _dataWare.GetDataSet("I_Department_Save", _list);
+                DataSet _dataSet = await _dataWare.GetDataSet("I_tax_Save", _list);
                 if (_dataSet != null && _dataSet.Tables.Count > 0 && _dataSet.Tables[0].Rows.Count > 0)
                 {
                     if (_dataSet.Tables[0].Rows[0][0].ToString() == "-1")

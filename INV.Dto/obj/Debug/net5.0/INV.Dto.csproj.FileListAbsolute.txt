@@ -58,3 +58,15 @@ D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0
 D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.dll
 D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\ref\INV.Dto.dll
 D:\Projects\Proj-main\Proj-main\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.pdb
+F:\Projects\Proj-main\Inventory\Inventory-API\INV.Dto\bin\Debug\net5.0\INV.Dto.deps.json
+F:\Projects\Proj-main\Inventory\Inventory-API\INV.Dto\bin\Debug\net5.0\INV.Dto.dll
+F:\Projects\Proj-main\Inventory\Inventory-API\INV.Dto\bin\Debug\net5.0\ref\INV.Dto.dll
+F:\Projects\Proj-main\Inventory\Inventory-API\INV.Dto\bin\Debug\net5.0\INV.Dto.pdb
+F:\Projects\Proj-main\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.csproj.AssemblyReference.cache
+F:\Projects\Proj-main\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Proj-main\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.AssemblyInfoInputs.cache
+F:\Projects\Proj-main\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.AssemblyInfo.cs
+F:\Projects\Proj-main\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.csproj.CoreCompileInputs.cache
+F:\Projects\Proj-main\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.dll
+F:\Projects\Proj-main\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\ref\INV.Dto.dll
+F:\Projects\Proj-main\Inventory\Inventory-API\INV.Dto\obj\Debug\net5.0\INV.Dto.pdb

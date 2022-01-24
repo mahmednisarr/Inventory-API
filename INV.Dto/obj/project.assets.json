@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Proj-main\\Proj-main\\Inventory\\Inventory-API\\INV.Dto\\INV.Dto.csproj",
+      "projectUniqueName": "F:\\Projects\\Proj-main\\Inventory\\Inventory-API\\INV.Dto\\INV.Dto.csproj",
       "projectName": "INV.Dto",
-      "projectPath": "D:\\Projects\\Proj-main\\Proj-main\\Inventory\\Inventory-API\\INV.Dto\\INV.Dto.csproj",
+      "projectPath": "F:\\Projects\\Proj-main\\Inventory\\Inventory-API\\INV.Dto\\INV.Dto.csproj",
       "packagesPath": "C:\\Users\\Sahil Sharma\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Proj-main\\Proj-main\\Inventory\\Inventory-API\\INV.Dto\\obj\\",
+      "outputPath": "F:\\Projects\\Proj-main\\Inventory\\Inventory-API\\INV.Dto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

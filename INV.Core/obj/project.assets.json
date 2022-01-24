@@ -6189,11 +6189,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Proj-main\\Proj-main\\Inventory\\Inventory-API\\INV.Core\\INV.Core.csproj",
+      "projectUniqueName": "F:\\Projects\\Proj-main\\Inventory\\Inventory-API\\INV.Core\\INV.Core.csproj",
       "projectName": "INV.Core",
-      "projectPath": "D:\\Projects\\Proj-main\\Proj-main\\Inventory\\Inventory-API\\INV.Core\\INV.Core.csproj",
+      "projectPath": "F:\\Projects\\Proj-main\\Inventory\\Inventory-API\\INV.Core\\INV.Core.csproj",
       "packagesPath": "C:\\Users\\Sahil Sharma\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Proj-main\\Proj-main\\Inventory\\Inventory-API\\INV.Core\\obj\\",
+      "outputPath": "F:\\Projects\\Proj-main\\Inventory\\Inventory-API\\INV.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -6216,8 +6216,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Projects\\Proj-main\\Proj-main\\Inventory\\Inventory-API\\INV.Dto\\INV.Dto.csproj": {
-              "projectPath": "D:\\Projects\\Proj-main\\Proj-main\\Inventory\\Inventory-API\\INV.Dto\\INV.Dto.csproj"
+            "F:\\Projects\\Proj-main\\Inventory\\Inventory-API\\INV.Dto\\INV.Dto.csproj": {
+              "projectPath": "F:\\Projects\\Proj-main\\Inventory\\Inventory-API\\INV.Dto\\INV.Dto.csproj"
             }
           }
         }

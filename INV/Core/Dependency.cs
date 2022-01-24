@@ -40,6 +40,7 @@ namespace INV.Core
             services.AddTransient<IItemServices, ItemServices>();
             services.AddTransient<IRackServices, RackService>();
             services.AddTransient<IShelfServices, ShelfServices>();
+            services.AddTransient<ITaxServices, TaxServices>();
         }
     }
 }
