@@ -84,7 +84,6 @@ namespace INV.Services.Masters
             try
             {
                 _list.Add(new ViewParam() { Name = "LocID", Value = LocID });
-                _list.Add(new ViewParam() { Name = "flag", Value = 'L' });
                 DataSet _dataSet = await _dataWare.GetDataSet("I_Supplier_get", _list);
                 
                 if (_dataSet != null && _dataSet.Tables.Count > 0)
@@ -92,7 +91,7 @@ namespace INV.Services.Masters
                     _response.ResponseCode = StatusCodes.Status200OK;
                     _response.ResponseStatus = true;
                     _response.ResponseMessage = ResponseMessage.Success;
-                    _response.ResponsePacket = _dataSet.Tables[0].DataTableToList<SupplierDto>();
+                    _response.ResponsePacket = Common.DatatableToObject(_dataSet.Tables[0]);
                 }
                 else
                 {
@@ -120,22 +119,26 @@ namespace INV.Services.Masters
                 _list.Add(new ViewParam() { Name = "id", Value = reqResponseDto.ID });
                 _list.Add(new ViewParam() { Name = "name", Value = reqResponseDto.Name });
                 _list.Add(new ViewParam() { Name = "status", Value = reqResponseDto.Status});
-                _list.Add(new ViewParam() { Name = "code", Value = reqResponseDto.Code});
-                _list.Add(new ViewParam() { Name = "usrId", Value = usrID });
-                _list.Add(new ViewParam() { Name = "add1", Value = reqResponseDto.Add});
-                _list.Add(new ViewParam() { Name = "contractorName", Value = reqResponseDto.Contname});
-                _list.Add(new ViewParam() { Name = "phone", Value = reqResponseDto.Phone});
-                _list.Add(new ViewParam() { Name = "contractorPhone", Value = reqResponseDto.ContPhone});
-                _list.Add(new ViewParam() { Name = "designation", Value = reqResponseDto.Design});
-                _list.Add(new ViewParam() { Name = "panNo", Value = reqResponseDto.ITPanNo});
-                _list.Add(new ViewParam() { Name = "defaultOpb", Value = reqResponseDto.DefaultOpeningBal});
-                _list.Add(new ViewParam() { Name = "tinNo", Value = reqResponseDto.TinNo});
+                _list.Add(new ViewParam() { Name = "areaId", Value = reqResponseDto.AreaID});
+                _list.Add(new ViewParam() { Name = "bankBenifName", Value = reqResponseDto.BankBenifName});
+                _list.Add(new ViewParam() { Name = "bankIfsc", Value = reqResponseDto.BankIfsc});
+                _list.Add(new ViewParam() { Name = "bankName", Value = reqResponseDto.BankName});
                 _list.Add(new ViewParam() { Name = "email", Value = reqResponseDto.Email});
-                _list.Add(new ViewParam() { Name = "pwd", Value = reqResponseDto.PWD});
-                _list.Add(new ViewParam() { Name = "gstIN", Value = reqResponseDto.GSTIN});
-                _list.Add(new ViewParam() { Name = "crLimit", Value = reqResponseDto.CrLimit});
-                _list.Add(new ViewParam() { Name = "tds", Value = reqResponseDto.TDS});
+                _list.Add(new ViewParam() { Name = "fax", Value = reqResponseDto.Fax});
+                _list.Add(new ViewParam() { Name = "gstNo", Value = reqResponseDto.GstNo});
+                _list.Add(new ViewParam() { Name = "license", Value = reqResponseDto.License});
+                _list.Add(new ViewParam() { Name = "pocDesign", Value = reqResponseDto.PocDesign});
+                _list.Add(new ViewParam() { Name = "pocEmail", Value = reqResponseDto.PocEmail});
+                _list.Add(new ViewParam() { Name = "pocName", Value = reqResponseDto.PocName});
+                _list.Add(new ViewParam() { Name = "pocPhone", Value = reqResponseDto.PocPhone});
+                _list.Add(new ViewParam() { Name = "telno", Value = reqResponseDto.Telno});
+                _list.Add(new ViewParam() { Name = "tinNo", Value = reqResponseDto.TinNo});
+                _list.Add(new ViewParam() { Name = "vatNo", Value = reqResponseDto.VatNo});
+                _list.Add(new ViewParam() { Name = "bankAcc", Value = reqResponseDto.BankAcc });
+                _list.Add(new ViewParam() { Name = "website", Value = reqResponseDto.Website});
                 _list.Add(new ViewParam() { Name = "LocID", Value = LocID });
+                _list.Add(new ViewParam() { Name = "address", Value = reqResponseDto.Address });
+                _list.Add(new ViewParam() { Name = "usrID", Value = usrID });
               
                 DataSet _dataSet = await _dataWare.GetDataSet("I_Supplier_Save", _list);
                 if (_dataSet != null && _dataSet.Tables.Count > 0 && _dataSet.Tables[0].Rows.Count > 0)

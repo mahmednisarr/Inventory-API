@@ -33,6 +33,7 @@ namespace INV.Core
         {
             services.AddTransient<IAuthService, AuthService>();
             services.AddTransient<IItemGroupServices, ItemGroupServices>();
+            services.AddTransient<ICityService, CityService>();
             services.AddTransient<IUnitTypeServices, UnitTypeService>();
             services.AddTransient<IUnitServices, UnitService>();
             services.AddTransient<ISupplierServices, SupplierServices>();

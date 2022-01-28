@@ -10,24 +10,25 @@ namespace INV.Dto.Request
     {
         public int ID { get; set; }
         public string Name { get; set; }
-        public string Code { get; set; }
-        public string Phone { get; set; }
-        public string Add { get; set; }
-        public int CityID { get; set; }
-        public string City { get; set; }
-        public string Contname { get; set; }
-        public string ContPhone { get; set; }
-        public string DefaultOpeningBal { get; set; }
-        public string TinNo { get; set; }
-        public string Email { get; set; }
-        public string PWD { get; set; }
-        public string GSTIN { get; set; }
-        public string Date { get; set; }
-        public string UsrID { get; set; }
-        public string CrLimit { get; set; }
-        public string TDS { get; set; }
-        public string ITPanNo { get; set; }
-        public string Design { get; set; }
-        public bool Status { get; set; }
+        public string Telno{ get; set; }
+        public string Email{ get; set; }
+        public string Website{ get; set; }
+        public string Fax{ get; set; }
+        public string Address{ get; set; }
+        public int  AreaID{ get; set; }
+        public string PocName{ get; set; }
+        public string PocDesign{ get; set; }
+        public string PocPhone{ get; set; }
+        public string PocEmail{ get; set; }
+        public string License{ get; set; }
+        public string GstNo{ get; set; }
+        public string TinNo{ get; set; }
+        public string VatNo{ get; set; }
+        public string BankName { get; set; }
+        public string BankIfsc{ get; set; }
+        public string BankAcc{ get; set; }
+        public string BankBenifName{ get; set; }
+        public bool Status{ get; set; }
+
     }
 }

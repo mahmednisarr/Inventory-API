@@ -29,3 +29,15 @@ INV/bin/Debug/net5.0/INV.runtimeconfig.dev.json
 INV/bin/Debug/net5.0/INV.exe
 INV.Services/obj/project.assets.json
 INV.Services/obj/INV.Services.csproj.nuget.g.props
+*.config
+*.v2
+*.json
+*.json
+INV.Core/obj/INV.Core.csproj.nuget.dgspec.json
+*.props
+INV/obj/Debug/net5.0/apphost.exe
+INV/obj/Debug/net5.0/apphost.exe
+INV/obj/INV.csproj.nuget.dgspec.json
+*.json
+*.json
+*.json
